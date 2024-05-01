@@ -1,2 +1,2 @@
-# whitepaper
-3Jane Protocol Whitepaper
+# 3Jane Protocol: Unlocking Crypto-Native Derivatives Yield
+Ethereum is witnessing a cambrian explosion in crypto-native yield-bearing assets enabled by EigenLayer’s restaking primitive. At time of writing over 15% of all staked ETH has been restaked equating to $15.75B TVL. 3Jane is a crypto-native derivatives protocol built on restaking and cash-and-carry. At its core, 3Jane revolutionizes the way Ethereum is utilized by enabling the collateralization of cryptoeconomic security of any Proof-of-Stake (PoS) based system in derivatives contracts. This approach maintains the security of these systems whilst weaving them seamlessly into a vibrant derivatives market. Through composability, 3Jane unlocks the potential to generate substantial yield from options contracts all while contributing to the overarching security and robustness of the crypto economy.
